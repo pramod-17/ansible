@@ -1,0 +1,13 @@
+nokia: 
+  Ram: 
+        size: 4gb
+        price: 5000
+  price: 15k
+  Display: 9.1in
+
+samsung:
+  Ram: 
+        size: 6gb
+        price: 6000
+  price: 20k
+  Display: 7in

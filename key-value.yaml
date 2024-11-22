@@ -1,0 +1,5 @@
+Fruit: apple 
+Vegetable: tomato
+Liquid: water
+
+#in this fruit, vegetable & water are keys and apple, tomato & water are values but keep space betwn key value 

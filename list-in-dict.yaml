@@ -1,0 +1,10 @@
+mobiles:
+    -
+      name: nokia 
+      ram: 4gb
+      price: 15k
+
+    -
+      name: samsung
+      ram: 6gb
+      price: 20k

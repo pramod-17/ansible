@@ -1,0 +1,26 @@
+# --- 
+# -name: my first script
+# host: all 
+# beacome: yes 
+# tasks: 
+#   -
+#     name: apache2 stop
+#     service: name=apache2 state=absent
+
+
+# ...
+
+---
+- name: my first script
+  hosts: all
+  become: true
+
+
+  tasks:
+    - name: apache2 stop
+      command: cat /var/www/html/index.html << EOF >
+          
+          EOF << echo "AARNA SYSTEMS "
+
+
+...
